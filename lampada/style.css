@@ -1,0 +1,29 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 4.5em;
+}
+#container{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+#image{
+    margin-left: 80px;
+    width: 250px;
+}
+input{
+    margin: 2px;
+    width: 140px;
+    height: 30px;
+    font-size: 1.1em;
+}
+
+#botoes{
+    margin-left: 65px;
+}
